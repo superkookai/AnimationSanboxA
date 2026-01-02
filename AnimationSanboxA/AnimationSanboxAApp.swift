@@ -11,7 +11,7 @@ import SwiftUI
 struct AnimationSanboxAApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AnimationView()
         }
     }
 }
